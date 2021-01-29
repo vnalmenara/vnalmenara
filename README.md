@@ -1,6 +1,8 @@
-### Hey 👋 Welcome to my repositories!
+# Hey 👋 Welcome to my repositories!
 
-<h4 align="center">Who am I? Developer, Lawyer, Researcher, Monitor, Student ... but not only! I am tirelessly curious and determined, I love to learn and I believe in a professional and personal mindset based on good faith and empathy!</h3>
+![imagem_de_apresentacao](./images/vnalmenara.png)
+
+### Who am I? Developer, Lawyer, Researcher, Monitor, Student ... but not only! I am tirelessly curious and determined, I love to learn and I believe in a professional and personal mindset based on good faith and empathy!</h3>
 
 <br/> 💻 Technologist in Systems Analysis and Development.
 <br/> 👩🏻‍💻 Generation Brasil Student.
