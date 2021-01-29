@@ -7,7 +7,7 @@
 <br/> 💻 Technologist in Systems Analysis and Development.
 <br/> 👩🏻‍💻 Generation Brasil Student.
 <br/>🌱 I’m currently learning more Java, Spring Boot and Agile methodologies.
-<br/>💻  Techs: Java, Spring Boot, MySQL, Docker, AWS and Angular.
+<br/>🌌 Techs: Java, Spring Boot, MySQL, Docker, AWS and Angular.
 <br/>👩🏻‍💼⚖ Civil, social security, compliance and digital law attorney.
 <br/>🌍 Languages: Portuguese(BR), English (intermediary) and Spanish (basic).
 <br/>💬 Ask me about: tech, law, foods and any interesting project on any topic.
