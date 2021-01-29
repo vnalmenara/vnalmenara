@@ -4,6 +4,7 @@
 
 ### Who am I? Developer, Lawyer, Researcher, Monitor, Student ... but not only! I am tirelessly curious and determined, I love to learn and I believe in a professional and personal mindset based on good faith and empathy!</h3>
 
+<br/> 🪂 Back-end Developer learning Front-end.
 <br/> 💻 Technologist in Systems Analysis and Development.
 <br/> 👩🏻‍💻 Generation Brasil Student.
 <br/>🌱 I’m currently learning more Java, Spring Boot and Agile methodologies.
